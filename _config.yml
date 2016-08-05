@@ -2,6 +2,7 @@ name: metin
 favicon: null
 layout_spectrum: 0.8743362445384264
 typography_spectrum: 0.8382003400474787
+title: Hello
 cta:
   domain: null
   bucket: null
